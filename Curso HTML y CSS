@@ -1,0 +1,21 @@
+<!-- Ejercicio N° 0 -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+	<meta charset="UTF-8" />
+</head>
+
+<body>
+	<p>Este es mi primer comentario de dos líneas</p>
+	<p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+	<ul>
+		<li><a href="https://www.youtube.com/watch?v=3Wf29RiKp70">SoundTrack Guardianes de la Galaxia</a></li>
+		<li><a href="https://www.youtube.com/watch?v=djV11Xbc914&list=PLXa7_mmQHdn71GZYIyM2HhW6L6WAOlLwh">All out 80s música</a></li>
+		<li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Una Locura</a></li>
+	</ul>
+</body>
+
+</html>
